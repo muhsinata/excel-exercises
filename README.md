@@ -1,2 +1,2 @@
-# excel-exercises
-There are excel related files that I used to learn excel
+# Excel
+In this repository, there will be some documents and projects that I used while learning excel.
